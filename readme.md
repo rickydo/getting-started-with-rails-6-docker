@@ -109,3 +109,6 @@ docker-compose run --rm web /bin/bash
 ```
 docker rm $(docker ps -q -a) -f && docker rmi $(docker images -q) -f
 ```
+
+# Resource
+[Blog Walkthrough](https://blog.konnor.site/rails/getting-started-with-rails-6/)
