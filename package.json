@@ -1,0 +1,6 @@
+{
+  "_filename": "package.json",
+  "name": "myapp",
+  "private": true,
+  "version": "0.1.0"
+}
